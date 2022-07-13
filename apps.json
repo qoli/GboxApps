@@ -1,23 +1,23 @@
 {
     "version": "1.0",
-    "sourceName": "Box_Apps",
+    "sourceName": "Binance Test App",
     "sourceAuthor": "Binance",
     "sourceLinkTitle": "主页",
     "sourceLinkUrl": "https://gbox.run",
     "sourceImage": "https://gbox.run/Public/images/source.png",
-    "sourceUpdateTime": "2019-11-23T11:00:00+0800",
-    "sourceDescription": "Box Apps",
+    "sourceUpdateTime": "2019-11-24T11:00:00+0800",
+    "sourceDescription": "這裡分發最新版本的幣安測試 App",
     "appCategories": [
         "工具"
     ],
     "appRepositories": [
         {
-            "appType": "SELF_SIGN",
+            "appType": "ENT_SIGN",
             "appCateIndex": 0,
             "appUpdateTime": "2019-11-23T08:00:00+0800",
             "appName": "Binance Test App",
             "appVersion": "0.0.1",
-            "appImage": "https://gbox.run/Public/images/icon.png",
+            "appImage": "https://raw.githubusercontent.com/qoli/GboxApps/main/assets/logo.png",
             "appPackage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Xero/GBox_v1.3.6_1122.ipa",
             "appDescription": "App的描述"
         }
