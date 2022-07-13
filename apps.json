@@ -5,21 +5,21 @@
     "sourceLinkTitle": "主页",
     "sourceLinkUrl": "https://gbox.run",
     "sourceImage": "https://gbox.run/Public/images/source.png",
-    "sourceUpdateTime": "2019-11-24T11:00:00+0800",
+    "sourceUpdateTime": "2022-07-13T16:00:00+0800",
     "sourceDescription": "這裡分發最新版本的幣安測試 App",
     "appCategories": [
         "工具"
     ],
     "appRepositories": [
         {
-            "appType": "ENT_SIGN",
+            "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2019-11-23T08:00:00+0800",
+            "appUpdateTime": "2022-07-13T16:00:00+0800",
             "appName": "Binance Test App",
             "appVersion": "0.0.1",
             "appImage": "https://raw.githubusercontent.com/qoli/GboxApps/main/assets/logo.png",
-            "appPackage": "https://dev.tencent.com/u/wallace_leung/p/AppHub/git/raw/master/Xero/GBox_v1.3.6_1122.ipa",
-            "appDescription": "App的描述"
+            "appPackage": "https://github.com/qoli/GboxApps/blob/main/assets/fbinance.ipa?raw=true",
+            "appDescription": "首頁展示、錢包展示、錢包向鏈上地址轉帳"
         }
     ]
 }
